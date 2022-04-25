@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e855f39b.css",
+    "main.js": "/static/js/main.fb3cb376.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "static/media/profile.jpg": "/static/media/profile.51be269f3c145570e190.jpg",
+    "static/media/cal.png": "/static/media/cal.d0768065c846d6222ff9.png",
+    "static/media/bank.png": "/static/media/bank.9864e0c8860808ee9be7.png",
+    "static/media/curdapp.png": "/static/media/curdapp.c7858aa9a63d509fd624.png",
+    "static/media/covid.jpg": "/static/media/covid.c7f4eebc48a18bca4d83.jpg",
+    "static/media/counterapp.jpg": "/static/media/counterapp.a6291a3e60c0008b0b87.jpg",
+    "static/media/SandeepGuptaResume.pdf": "/static/media/SandeepGuptaResume.4cb63d1afa14c99932c1.pdf",
+    "static/media/valid.png": "/static/media/valid.6b8588d4645679ee8d1c.png",
+    "static/media/modern.png": "/static/media/modern.ecfc9811aa899e9179cd.png",
+    "index.html": "/index.html",
+    "main.e855f39b.css.map": "/static/css/main.e855f39b.css.map",
+    "main.fb3cb376.js.map": "/static/js/main.fb3cb376.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e855f39b.css",
+    "static/js/main.fb3cb376.js"
+  ]
+}

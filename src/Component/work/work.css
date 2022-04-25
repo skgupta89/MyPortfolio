@@ -1,0 +1,35 @@
+.card{
+    margin: 10px;
+
+}
+.card:hover{
+    box-shadow: 10px 10px lightblue;
+}
+
+.title{
+    text-align: center;
+}
+
+.workdiv{
+    margin-top: 5%;
+
+}
+.workdiv h1{
+    text-decoration: underline  black ;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+    .card-img-top {
+        width: 320px;
+        height: 220px;
+        position: relative;
+        align-items: center;
+       
+    }
+    .workdiv{
+       position: relative;
+       top: 50px;
+    }
+}

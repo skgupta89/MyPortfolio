@@ -1,0 +1,31 @@
+.navbar-collapse{
+    margin-left: 50%;
+}
+.navbar-collapse ul li{
+    padding-right: 5%;
+    list-style-type: none;
+}
+.navbar-collapse ul li a{
+  font-size: 18px;
+  font-weight: 600;
+}
+@media only screen and (max-width: 600px) {
+    .navbar-collapse {
+      margin-left: 50%;
+      
+    }
+  }
+
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 2%;
+}
+
+.lio{
+    color: #42b3f5;
+}
+
+.navbar-toggler{
+    background-color: #42b3f5;
+}

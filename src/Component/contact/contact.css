@@ -1,0 +1,38 @@
+.title{
+    text-align: center;
+
+}
+.title h1{
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+.me{
+    color: #168bcf ;
+}
+
+.contact{
+    margin-top: 5%;
+    text-align: center;
+}
+.contact input{
+    margin: 5px;
+}
+
+.colone{
+    margin-top: 2%;
+    position: relative;
+    left: 320px;
+}
+
+@media only screen and (max-width: 600px) {
+    .colone {
+        position:relative; 
+        left:0px;
+       
+    }
+    .contact{
+        position:relative; 
+        top:50px;
+    }
+}
